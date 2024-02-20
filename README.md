@@ -6,9 +6,9 @@ Hello! I'm Pablo Sturm, a passionate systems engineer with expertise in DevOps, 
 
 ## Contact Information
 - Email: psturm.work@gmail.com
-- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/psturm79/)
-- Website: [[Your Personal Website](https://psturm79.wordpress.com/)]
-- GitHub: [[Your GitHub Profile](https://github.com/psturm79)]
+- LinkedIn: [[LinkedIn Profile]](https://www.linkedin.com/in/psturm79/)
+- Website: [[Personal Website](https://psturm79.wordpress.com/)]
+- GitHub: [[GitHub Profile](https://github.com/psturm79)]
 
 ## Skills
 - Operating Systems: Linux (Ubuntu, CentOS), Windows Server
